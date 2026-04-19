@@ -1,0 +1,11 @@
+{
+  "name": "md-to-substack",
+  "version": "1.0.0",
+  "description": "Convert Markdown to Substack-compatible HTML. Smart quotes, new-tab links, and Substack-optimized formatting included.",
+  "author": {
+    "name": "Manan Buddhadev"
+  },
+  "homepage": "https://github.com/manan-buddhadev/manan-claude-skills",
+  "license": "MIT",
+  "keywords": ["markdown", "substack", "publishing", "writing", "blog", "html", "newsletter"]
+}

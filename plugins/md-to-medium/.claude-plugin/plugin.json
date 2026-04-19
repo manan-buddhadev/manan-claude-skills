@@ -1,0 +1,11 @@
+{
+  "name": "md-to-medium",
+  "version": "1.0.0",
+  "description": "Convert Markdown to Medium-publishable HTML using Medium's graf CSS classes. Open the output in a browser, Cmd+A, paste into medium.com/new.",
+  "author": {
+    "name": "Manan Buddhadev"
+  },
+  "homepage": "https://github.com/manan-buddhadev/manan-claude-skills",
+  "license": "MIT",
+  "keywords": ["markdown", "medium", "publishing", "writing", "blog", "html"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "manan-claude-skills",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "md-to-medium",
+      "location": "./plugins/md-to-medium",
+      "description": "Convert Markdown to Medium-publishable HTML using Medium's graf CSS classes. Open the output in a browser, Cmd+A, paste into medium.com/new.",
+      "category": "Productivity",
+      "tags": ["markdown", "medium", "publishing", "writing", "blog", "html"]
+    },
+    {
+      "name": "md-to-substack",
+      "location": "./plugins/md-to-substack",
+      "description": "Convert Markdown to Substack-compatible HTML. Smart quotes, new-tab links, and Substack-optimized formatting included.",
+      "category": "Productivity",
+      "tags": ["markdown", "substack", "publishing", "writing", "blog", "html", "newsletter"]
+    }
+  ]
+}
